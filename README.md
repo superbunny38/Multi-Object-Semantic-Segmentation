@@ -1,4 +1,4 @@
-# Multi-Class-Semantic-Segmentation
+# Multi-Object-Semantic-Segmentation
 
 ## Pre-processing Images
 ## Models
