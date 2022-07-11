@@ -9,20 +9,7 @@
 
 ## Pre-processing Images
 
-![image](https://user-images.githubusercontent.com/48243487/178192803-b3503f7b-8511-4f03-94db-6ff19865c2ea.png)
 
-**Random Mirror**
-
-![mirrored](https://user-images.githubusercontent.com/48243487/178175680-3b83e63b-9899-4ad6-9544-93705cafa15a.JPG)
-
-
-**Cutmix**
-
-![cutmix](https://user-images.githubusercontent.com/48243487/178175759-057a0f29-b731-449e-8eed-fc87d8fefde8.JPG)
-
-**Albumentations**
-
-![image](https://user-images.githubusercontent.com/48243487/178191416-5b2a9636-9a9f-437f-88f4-7b676534c215.png)
 
 ## Models
 - PSPNet
