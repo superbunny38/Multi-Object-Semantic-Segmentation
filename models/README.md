@@ -10,3 +10,7 @@
 **CutOut**
 
 ![image](https://user-images.githubusercontent.com/48243487/178285269-a5841064-2a53-4431-8cfb-90a6e985ae26.png)
+
+**Random Mirror**
+
+![image](https://user-images.githubusercontent.com/48243487/178286812-bb1621d2-1d0f-44d4-9d5a-646a2f7b2b5b.png)
