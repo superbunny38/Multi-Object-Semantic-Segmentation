@@ -8,6 +8,11 @@
 (Contact me via e-mail if you need segmented data)
 
 ## Pre-processing Images
+
 ## Models
+- PSPNet
+- ResNet101
+
+
 ## Post-processing
 ## Result Analysis
