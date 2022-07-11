@@ -9,6 +9,14 @@
 
 ## Pre-processing Images
 
+**Random Mirror**
+![mirrored](https://user-images.githubusercontent.com/48243487/178175680-3b83e63b-9899-4ad6-9544-93705cafa15a.JPG)
+
+
+**Cutmix**
+![cutmix](https://user-images.githubusercontent.com/48243487/178175759-057a0f29-b731-449e-8eed-fc87d8fefde8.JPG)
+
+
 ## Models
 - PSPNet
 - ResNet101
