@@ -18,6 +18,9 @@
 
 ![cutmix](https://user-images.githubusercontent.com/48243487/178175759-057a0f29-b731-449e-8eed-fc87d8fefde8.JPG)
 
+**Albumentations**
+
+![image](https://user-images.githubusercontent.com/48243487/178190679-65aa2b5e-2c56-4a9b-aa4f-64d5c94eceee.png)
 
 ## Models
 - PSPNet
