@@ -20,7 +20,7 @@
 
 **Albumentations**
 
-![image](https://user-images.githubusercontent.com/48243487/178190679-65aa2b5e-2c56-4a9b-aa4f-64d5c94eceee.png)
+![image](https://user-images.githubusercontent.com/48243487/178191416-5b2a9636-9a9f-437f-88f4-7b676534c215.png)
 
 ## Models
 - PSPNet
