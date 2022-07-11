@@ -9,6 +9,8 @@
 
 ## Pre-processing Images
 
+![image](https://user-images.githubusercontent.com/48243487/178192803-b3503f7b-8511-4f03-94db-6ff19865c2ea.png)
+
 **Random Mirror**
 
 ![mirrored](https://user-images.githubusercontent.com/48243487/178175680-3b83e63b-9899-4ad6-9544-93705cafa15a.JPG)
