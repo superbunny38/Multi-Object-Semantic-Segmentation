@@ -31,6 +31,6 @@
 | Model (epoch) | Augmentation  | Average Dice Coefficient (on Test score) |
 | -------------| ------------- | ------------- |
 | PSPNet (epoch: 50) | Random Mirror (num. of train imgs: 794)  | mean dice: 0.9425 (left lung 0.9538, right lung: 0.9312)  |
-| PSPNet (epoch: 25) | Cutmix (num. of train imgs: 367 | mean dice:  0.9501 (left lung: 0.9622, right lung: 0.9380) |
+| PSPNet (epoch: 25) | Cutmix (num. of train imgs: 367) | mean dice:  0.9501 (left lung: 0.9622, right lung: 0.9380) |
 | EfficientNet  | 0.914  | 0.914  |
 | SpiralNet-ResNet  | 0.905  | 0.905  |
