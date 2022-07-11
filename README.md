@@ -18,9 +18,9 @@
 
 ## Results
 
-| Model  | Augmentation  | Average Dice Coefficient (on Test score) |
+| Model (epoch) | Augmentation  | Average Dice Coefficient (on Test score) |
 | -------------| ------------- | ------------- |
-| PSPNet| Random Mirror (num. of train imgs: 794)  | mean dice: 0.9425 (left lung 0.9538, right lung: 0.9312)  |
+| PSPNet (epoch: 50) | Random Mirror (num. of train imgs: 794)  | mean dice: 0.9425 (left lung 0.9538, right lung: 0.9312)  |
 | RseNet101 | 0.865  | 0.865  |
 | EfficientNet  | 0.914  | 0.914  |
 | SpiralNet-ResNet  | 0.905  | 0.905  |
