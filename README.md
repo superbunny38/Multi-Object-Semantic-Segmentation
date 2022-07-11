@@ -15,4 +15,12 @@
 
 
 ## Post-processing
-## Result Analysis
+
+## Results
+
+| Model  | Augmentation  | Dice Coefficient (on Test score) |
+| -------------| ------------- | ------------- |
+| WideResNet+SAM| WideResNet+SAM  | 0.218  |
+| RseNet101 | 0.865  | 0.865  |
+| EfficientNet  | 0.914  | 0.914  |
+| SpiralNet-ResNet  | 0.905  | 0.905  |
