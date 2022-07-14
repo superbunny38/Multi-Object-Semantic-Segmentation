@@ -28,5 +28,5 @@
 | PSPNet (epoch: 25)  | Cutout (num. of train imgs: 367)  | mean dice: 0.4597 (left lung: 0.2758, right lung: 0.6436)  ||
 | PSPNet pretrained on cutmix (25) (epoch: 10) + HD losss  | None  | mean dice: 0.613  (left lung: 0.5941 right lung: 0.6328)||
 | PSPNet pretrained on cutmix (25) (epoch: 10) + minimized HD losss + increased weight decay + decreased lr | None  | mean dice: 0.9554 (left lung: 0.9645 right lung: 0.9464 ) ||
-| PSPNet pretrained on cutmix (25) (epoch: 25) + minimized HD losss + increased weight decay + decreased lr | None  | mean dice: 0.9555 (eft lung 0.9645 right lung: 0.9464 ) ||
-| PSPNet pretrained on cutmix (25) (epoch: 5) + minimized BD losss + trainable weights on loss | Histogram equalizer | mean dice: 0.9555 (eft lung 0.9645 right lung: 0.9464 ) | [link](https://drive.google.com/file/d/1fRMiIs_Zr4sttBKXyLjqcyIGA5in-MBf/view?usp=sharing) |
+| PSPNet pretrained on cutmix (25) (epoch: 25) + minimized HD losss + increased weight decay + decreased lr | None  | mean dice: 0.9555 (left lung 0.9645 right lung: 0.9464 ) ||
+| PSPNet pretrained on cutmix (25) (epoch: 5) + minimized BD losss + trainable weights on loss | Histogram equalizer | mean dice: 0.9612 (left lung 0.9671 right lung: 0.9553 ) | [link](https://drive.google.com/file/d/1fRMiIs_Zr4sttBKXyLjqcyIGA5in-MBf/view?usp=sharing) |
