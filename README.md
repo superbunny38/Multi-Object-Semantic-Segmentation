@@ -32,4 +32,4 @@
 | PSPNet pretrained on cutmix (25) (epoch: 5) + minimized BD losss + trainable weights on loss | Histogram equalizer | mean dice: 0.9612 (left lung 0.9671 right lung: 0.9553 ) | [link](https://drive.google.com/file/d/1fRMiIs_Zr4sttBKXyLjqcyIGA5in-MBf/view?usp=sharing) |
 | PSPNet pretrained on cutmix (25) (epoch: 10) + weighted DC + BD| Histogram equalizer | mean dice: 0.9498 (left lung 0.9560 right lung: 0.9436 )  ||
 | PSPNet pretrained on cutmix (25) (epoch: 30) + weighted DC + BD| Histogram equalizer| mean dice: 0.9498 (left lung 0.9560 right lung: 0.9436 ) ||
-| PSPNet pretrained on cutmix (25) (epoch: 30) + weighted DC + BD| Histogram equalizer + Cutmix| mean dice: 0.9612 (left lung 0.9671 right lung: 0.9553 ) ||
+| PSPNet pretrained on cutmix (25) (epoch: 30) + weighted DC + BD| Histogram equalizer + Cosine Annealing| mean dice: 0.9612 (left lung 0.9671 right lung: 0.9553 ) ||
