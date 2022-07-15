@@ -15,6 +15,9 @@
 - PSPNet
 - ResNet101
 
+## FINAL MODEL
+![image](https://user-images.githubusercontent.com/48243487/179132922-d91de88d-b0fd-4690-911d-1d7f6083ebfa.png)
+
 
 ## Post-processing
 
