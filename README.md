@@ -1,7 +1,8 @@
 # Multi-Object-Semantic-Segmentation
 
 **Task**: Segment Left and Right Lung from Lung Dataset
-**ppt**: https://docs.google.com/presentation/d/1gTv_T3emhZpL3ZO1yKkmYnJcfkhZl6ke1m0ANZmFM7g/edit#slide=id.g13c4dc079d2_0_356
+
+**presentation**: https://docs.google.com/presentation/d/1gTv_T3emhZpL3ZO1yKkmYnJcfkhZl6ke1m0ANZmFM7g/edit#slide=id.g13c4dc079d2_0_356
 
 
 # Data
