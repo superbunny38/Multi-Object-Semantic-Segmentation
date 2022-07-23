@@ -20,11 +20,16 @@
 
 ## FINAL MODEL
 ![image](https://user-images.githubusercontent.com/48243487/180593519-b9963bc2-9d92-448f-96eb-c4a14fba31d9.png)
+
 **Model: PSPNet**
+
 **Pretrained weights on: ADE20k**
+
 **Optimizer: Adam**
+
 **LR scheduler: Cosine Annealing**
-**Criterion : 0.01*Soft Dice Loss + 0.99*Boundary Loss + 0.3*Auxiliary Loss**
+
+**Criterion : 0.01xSoft Dice Loss + 0.99xBoundary Loss + 0.3xAuxiliary Loss**
 
 
 ## Post-processing
