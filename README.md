@@ -44,3 +44,8 @@
 | PSPNet pretrained on cutmix (25) (epoch: 5) + minimized BD losss + trainable weights on loss | Histogram equalizer | mean dice: 0.9612 (left lung 0.9671 right lung: 0.9553 ) | [link](https://drive.google.com/file/d/1fRMiIs_Zr4sttBKXyLjqcyIGA5in-MBf/view?usp=sharing) |
 | PSPNet pretrained on cutmix (25) (epoch: 10) + weighted DC + BD| Histogram equalizer | mean dice: 0.9498 (left lung 0.9560 right lung: 0.9436 )  ||
 | PSPNet Cosine Annealing (epoch: 50) + DC + BD| Histogram equalizer | mean dice: **0.98** (left lung: 0.98141 right lung: 0.97686) |[link](https://drive.google.com/file/d/10_oTVDqIdSfH2eoml8gqS6XgmamkCTBF/view?usp=sharing)|
+
+
+# Contact
+
+**If you need codes or have any issue, please contact me via e-mail (superbunny38 at gmail dot come) with your needs.**
