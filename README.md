@@ -15,13 +15,13 @@
 
 
 ## Models
-- PSPNet
+- PSPNet (Pyramid Scene Parsing Network)
 - ResNet101
 
 ## FINAL MODEL
 ![image](https://user-images.githubusercontent.com/48243487/180593519-b9963bc2-9d92-448f-96eb-c4a14fba31d9.png)
 
-- **Model: PSPNet**
+- **Model: PSPNet (Pyramid Scene Parsing Network)**
 - **Pretrained weights on: ADE20k**
 - **Optimizer: Adam**
 - **LR scheduler: Cosine Annealing**
