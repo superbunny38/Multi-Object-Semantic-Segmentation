@@ -16,6 +16,6 @@
 ![image](https://user-images.githubusercontent.com/48243487/178286812-bb1621d2-1d0f-44d4-9d5a-646a2f7b2b5b.png)
 
 
-** Pretrained on cutmix (25) (epoch: 10) + minimized HD losss + increased weight decay + decreased lr**
+**Pretrained on cutmix (25) (epoch: 10) + minimized HD losss + increased weight decay + decreased lr**
 
 ![image](https://user-images.githubusercontent.com/48243487/178398583-2000cac0-3647-485f-898e-43e583cbd55c.png)
