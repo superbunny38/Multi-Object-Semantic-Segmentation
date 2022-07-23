@@ -19,7 +19,7 @@
 - ResNet101
 
 ## FINAL MODEL
-![image](https://user-images.githubusercontent.com/48243487/179132922-d91de88d-b0fd-4690-911d-1d7f6083ebfa.png)
+![image](https://user-images.githubusercontent.com/48243487/180593519-b9963bc2-9d92-448f-96eb-c4a14fba31d9.png)
 
 
 ## Post-processing
