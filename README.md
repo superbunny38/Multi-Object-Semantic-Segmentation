@@ -28,8 +28,6 @@
 - **Criterion : 0.01xSoft Dice Loss + 0.99xBoundary Loss + 0.3xAuxiliary Loss**
 
 
-## Post-processing
-
 ## Results
 
 | Model (epoch) | Augmentation  | Average Dice Coefficient (on Test score) | model link |
