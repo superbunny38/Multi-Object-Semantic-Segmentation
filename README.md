@@ -26,6 +26,7 @@
 - **Optimizer: Adam**
 - **LR scheduler: Cosine Annealing**
 - **Criterion : 0.01xSoft Dice Loss + 0.99xBoundary Loss + 0.3xAuxiliary Loss**
+- **Performance: 0.98 dice on test set**
 
 
 ## Results
